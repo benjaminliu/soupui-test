@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="9e876fe3-b750-4e1e-8c09-6ab9c896b3ad" activeEnvironment="Default" name="REST Project 2" resourceRoot="" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="9e876fe3-b750-4e1e-8c09-6ab9c896b3adfileName">project-a</con:setting></con:settings><con:properties/><con:wssContainer/><con:databaseConnectionContainer/><con:oAuth2ProfileContainer/></con:soapui-project>
